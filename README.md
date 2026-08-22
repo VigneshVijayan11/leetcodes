@@ -25,4 +25,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/VigneshVijayan11/leetcodes/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/VigneshVijayan11/leetcodes/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 <!---LeetCode Topics End-->
